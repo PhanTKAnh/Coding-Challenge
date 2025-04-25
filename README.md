@@ -10,8 +10,9 @@ Setting:
 2. Install dependencies:
 - npm install
 3. Start the development server:
-- npm start
-Technology Used
+- npm start.
+
+Technology Used:
 -React.js (v19) 
 - React Router DOM (v7) 
 - LocalStorage 
